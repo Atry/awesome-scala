@@ -356,6 +356,7 @@ Projects with over 500 stargazers are in bold.
 * [scribe ★ 7 ⧗ 0](https://github.com/outr/scribe) - Practical logging framework that doesn't depend on any other logging framework and can be completely configured programmatically.
 * **[Shapeless ★ 1669 ⧗ 0](https://github.com/milessabin/shapeless)** - A type class and dependent type based generic programming library for Scala.
 * [Stateless Future ★ 147 ⧗ 0](https://github.com/qifun/stateless-future) - Asynchronous programming in fully featured Scala syntax.
+* [template.scala](https://github.com/ThoughtWorksInc/template.scala) - A library for creating template functions, similar to C++ templates.
 * **[Twitter Util ★ 1613 ⧗ 0](https://github.com/twitter/util)** - General-purpose Scala libraries, including a future implementation and other concurrency tools.
 * [wvlet-log](https://github.com/wvlet/log) - A library for enhancing your application logs with colors and source code locations.
 
